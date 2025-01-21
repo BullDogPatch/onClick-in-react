@@ -4,6 +4,7 @@ import './Header.css';
 
 const Header = () => {
   const [bgColor, setBgColor] = useState('antiquewhite');
+
   const handleClick = () => {
     console.log('This click is from the button Header component ');
   };
