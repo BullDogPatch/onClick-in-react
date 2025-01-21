@@ -1,0 +1,7 @@
+.section {
+  flex-grow: 1;
+}
+
+.section h3 {
+  margin: 3rem;
+}
